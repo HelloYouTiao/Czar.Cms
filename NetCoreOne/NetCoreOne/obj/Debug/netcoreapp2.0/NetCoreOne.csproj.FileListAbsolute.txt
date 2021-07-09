@@ -1,0 +1,15 @@
+D:\LearningNetCore\21210708\NetCoreOne\NetCoreOne\bin\Debug\netcoreapp2.0\appsettings.Development.json
+D:\LearningNetCore\21210708\NetCoreOne\NetCoreOne\bin\Debug\netcoreapp2.0\appsettings.json
+D:\LearningNetCore\21210708\NetCoreOne\NetCoreOne\bin\Debug\netcoreapp2.0\bundleconfig.json
+D:\LearningNetCore\21210708\NetCoreOne\NetCoreOne\bin\Debug\netcoreapp2.0\Properties\launchSettings.json
+D:\LearningNetCore\21210708\NetCoreOne\NetCoreOne\bin\Debug\netcoreapp2.0\NetCoreOne.deps.json
+D:\LearningNetCore\21210708\NetCoreOne\NetCoreOne\bin\Debug\netcoreapp2.0\NetCoreOne.runtimeconfig.json
+D:\LearningNetCore\21210708\NetCoreOne\NetCoreOne\bin\Debug\netcoreapp2.0\NetCoreOne.runtimeconfig.dev.json
+D:\LearningNetCore\21210708\NetCoreOne\NetCoreOne\bin\Debug\netcoreapp2.0\NetCoreOne.dll
+D:\LearningNetCore\21210708\NetCoreOne\NetCoreOne\bin\Debug\netcoreapp2.0\NetCoreOne.pdb
+D:\LearningNetCore\21210708\NetCoreOne\NetCoreOne\obj\Debug\netcoreapp2.0\NetCoreOne.csprojAssemblyReference.cache
+D:\LearningNetCore\21210708\NetCoreOne\NetCoreOne\obj\Debug\netcoreapp2.0\NetCoreOne.AssemblyInfoInputs.cache
+D:\LearningNetCore\21210708\NetCoreOne\NetCoreOne\obj\Debug\netcoreapp2.0\NetCoreOne.AssemblyInfo.cs
+D:\LearningNetCore\21210708\NetCoreOne\NetCoreOne\obj\Debug\netcoreapp2.0\NetCoreOne.dll
+D:\LearningNetCore\21210708\NetCoreOne\NetCoreOne\obj\Debug\netcoreapp2.0\NetCoreOne.pdb
+D:\LearningNetCore\21210708\NetCoreOne\NetCoreOne\obj\Debug\netcoreapp2.0\NetCoreOne.genruntimeconfig.cache
